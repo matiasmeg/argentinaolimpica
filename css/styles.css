@@ -10821,3 +10821,7 @@ header.masthead .site-heading .h1 {
   
 }
 
+.masthead{
+  loading: lazy;
+}
+
