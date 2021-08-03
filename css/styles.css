@@ -10824,9 +10824,10 @@ header.masthead .site-heading .h1 {
   font-size: 18px;
 }
 
-.fa-check{
+.fa-check, .fa-search, .fa-medal{
   color: #0085A1;
   font-size: 15px;
   margin-right: 15px;
 }
+
 
